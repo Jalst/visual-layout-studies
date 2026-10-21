@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="104" viewBox="0 0 420 104" role="img" aria-labelledby="title desc">
+<title id="title">Health 0 of 100 — empty</title><desc id="desc">EMPTY. Health is shown by a number, fill length and a status label. The low-health state also uses a warning triangle.</desc>
+<rect width="420" height="104" rx="12" fill="#142231"/>
+<g font-family="Arial, sans-serif"><text x="22" y="26" fill="#f7f9fc" font-size="12" letter-spacing="1.5">HEALTH</text><text x="342" y="26" fill="#f7f9fc" font-size="13" text-anchor="end">0 / 100</text>
+<g transform="translate(22 38)"><rect width="320" height="32" rx="7" fill="#23394b"/><rect x=".75" y=".75" width="318.5" height="30.5" rx="6.25" fill="none" stroke="#b7c6d7" stroke-opacity=".7" stroke-width="1.5"/>
+<path d="M80 2 V30 M160 2 V30 M240 2 V30" stroke="#142231" stroke-width="2"/>
+</g><g transform="translate(360 40)"><path d="M5 14 H24" fill="none" stroke="#d8e0ec" stroke-width="2"/></g>
+<text x="22" y="90" fill="#d8e0ec" font-size="11" letter-spacing="1.1">EMPTY</text></g></svg>

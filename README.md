@@ -1,5 +1,11 @@
 # Self-initiated visual studies
 
+## Game healthbar: four readable states
+
+21 October 2026: [Original SVG game HUD study](04-game-healthbar/README.md), with explicit values, state labels and a low-health warning shape. Static assets and a browser preview; no game-engine import or client deployment is claimed.
+
+![Healthbar states](04-game-healthbar/preview.png)
+
 ## Three-shot product storyboard
 
 21 October 2026: [Fold-flat tote](03-fold-flat-storyboard/README.md), an original sequential vector study for a fictional, unbranded product. It includes shot framing, movement, timing and on-screen copy. These are illustrations of a plan, not generated video stills or prior client work.
