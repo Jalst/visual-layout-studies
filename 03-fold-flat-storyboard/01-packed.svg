@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900"><rect width="1600" height="900" fill="#f7f3eb"/><path d="M70 128H1530" stroke="#263c3e" stroke-width="2" opacity=".22"/><text x="70" y="77" fill="#263c3e" font-family="Arial, sans-serif" font-size="23" font-weight="700" >01  /  OVERHEAD · LOCKED</text><text x="1530" y="77" fill="#263c3e" font-family="Arial, sans-serif" font-size="17" font-weight="400" text-anchor="end">ILLUSTRATED PLAN · NOT A VIDEO STILL</text><text x="70" y="821" fill="#263c3e" font-family="Arial, sans-serif" font-size="48" font-weight="700" >Small when you pack it.</text><g stroke="#263c3e" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M125 685H1475M125 700H1475" opacity=".25"/>
+  <ellipse cx="817" cy="562" rx="311" ry="33" fill="#263c3e" opacity=".07" stroke="none"/>
+  <g transform="rotate(-7 800 450)">
+    <rect x="540" y="298" width="530" height="296" rx="37" fill="#cd6844"/>
+    <rect x="558" y="316" width="494" height="260" rx="27" fill="none" stroke-dasharray="2 15" stroke-width="3"/>
+    <path d="M550 365H1060M550 376H1060" stroke-width="3"/>
+    <path d="M603 372V407Q603 420 616 420Q629 420 629 407V372" fill="#f7f3eb"/>
+    <path d="M788 436q28-20 56 0q-28 24-56 0z" fill="#f7f3eb" stroke="none" opacity=".65"/>
+  </g>
+  <g transform="rotate(14 1270 430)">
+    <rect x="1198" y="281" width="164" height="302" rx="27" fill="#f7f3eb"/>
+    <rect x="1211" y="303" width="138" height="249" rx="8" fill="#ead5c4" stroke-width="3"/>
+    <path d="M1260 294H1300" stroke-width="3"/>
+  </g>
+  <g transform="rotate(-18 350 485)">
+    <circle cx="349" cy="441" r="40" fill="none"/>
+    <path d="M328 469V574H350V557H367V534H350V478" fill="#f7f3eb"/>
+    <path d="M374 466l40 84l20-10l-8-17l13-8l-12-23l-13 7l-21-44" fill="#f7f3eb"/>
+  </g>
+</g><text x="70" y="864" fill="#657577" font-family="Arial, sans-serif" font-size="22" font-weight="400" >One unbranded pouch. Keys and a phone establish scale; no size claim.</text></svg>

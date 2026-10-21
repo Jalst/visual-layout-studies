@@ -1,4 +1,12 @@
-# Two self-initiated Pinterest layout studies
+# Self-initiated visual studies
+
+## Three-shot product storyboard
+
+21 October 2026: [Fold-flat tote](03-fold-flat-storyboard/README.md), an original sequential vector study for a fictional, unbranded product. It includes shot framing, movement, timing and on-screen copy. These are illustrations of a plan, not generated video stills or prior client work.
+
+![Fold-flat tote: three illustrated shot decisions](03-fold-flat-storyboard/storyboard-sheet.png)
+
+## Two Pinterest layout studies
 
 Original vector artwork, typography and layout by Thomas Geoffroy, created 20 October 2026. These are portfolio studies, not prior client work, not photos transformed by Drama Generator, and not evidence of Pinterest campaign performance. No stock photos, product screenshots or trademarked characters are used.
 

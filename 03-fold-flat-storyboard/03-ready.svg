@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900"><rect width="1600" height="900" fill="#f7f3eb"/><path d="M70 128H1530" stroke="#263c3e" stroke-width="2" opacity=".22"/><text x="70" y="77" fill="#263c3e" font-family="Arial, sans-serif" font-size="23" font-weight="700" >03  /  MEDIUM · LOCKED</text><text x="1530" y="77" fill="#263c3e" font-family="Arial, sans-serif" font-size="17" font-weight="400" text-anchor="end">ILLUSTRATED PLAN · NOT A VIDEO STILL</text><text x="70" y="821" fill="#263c3e" font-family="Arial, sans-serif" font-size="48" font-weight="700" >See how it folds.</text><g stroke="#263c3e" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M125 687H1475M125 702H1475" opacity=".25"/>
+  <ellipse cx="822" cy="682" rx="350" ry="30" fill="#263c3e" opacity=".07" stroke="none"/>
+  <path d="M532 366Q796 324 1064 366Q796 412 532 366Z" fill="#ead5c4"/>
+  <g transform="rotate(-16 677 351)">
+    <path d="M617 425V260Q617 195 674 195Q734 195 734 260V425Z" fill="#f7f3eb"/>
+    <path d="M643 248L682 269M643 298L682 318M643 348L682 369" stroke-width="4"/>
+  </g>
+  <path d="M801 390Q782 317 812 268Q827 250 843 275Q851 304 827 349Q859 284 886 300Q909 325 866 371Q919 331 936 356Q942 388 902 417" fill="#f7f3eb"/>
+  <path d="M945 417V284L958 267V225H1008V267L1021 284V417" fill="#f7f3eb"/>
+  <path d="M958 239H1008M947 326H1020" stroke-width="3"/>
+  <path d="M532 366Q796 412 1064 366L1022 654Q801 710 575 654Z" fill="#cd6844"/>
+  <path d="M651 379V252Q652 213 691 213H889Q929 213 929 252V379" fill="none"/>
+  <path d="M677 383V262Q677 240 698 240H882Q904 240 904 262V383" fill="none" stroke-width="3"/>
+  <path d="M581 414L614 633Q801 678 985 634L1016 415" fill="none" stroke-dasharray="2 15" stroke-width="3"/>
+  <rect x="691" y="448" width="220" height="150" rx="16" fill="none" stroke-width="3"/>
+  <path d="M691 474H911" stroke-width="3"/>
+  <path d="M1192 469H1332M1303 445L1332 469L1303 493" fill="none" stroke="#cd6844" stroke-width="7"/>
+</g><text x="70" y="864" fill="#657577" font-family="Arial, sans-serif" font-size="22" font-weight="400" >Hold the final packed view for the CTA. Same bag position as shot 2.</text></svg>
